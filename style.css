@@ -23,7 +23,6 @@ body {
   .login h2 {
     text-align: center;
     margin-bottom: 25px;
-    shadow: none;
   }
   
   .login input[type="text"],
